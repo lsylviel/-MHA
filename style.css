@@ -6,10 +6,5 @@ body
 	background-position: top right; /* Le fond sera placé en haut à droite */
 	background-attachment: fixed; /*arrière plan fixe*/
 	background-size: cover; /*prend toute la dimension de la page sans perte de qualité*/
-
-}
-
-img
-{
-    opacity: 0.6; /* Légèrement transparent */
+    opacity: 0.33; /*  transparent */
 }
