@@ -5,4 +5,5 @@ body
 	background-repeat: no-repeat; /* Le fond ne sera pas répété */
 	background-position: top right; /* Le fond sera placé en haut à droite */
     margin: auto;
+    padding-top: 49px;
 }
